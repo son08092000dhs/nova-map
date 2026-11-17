@@ -1,0 +1,9 @@
+{
+  "name": "NOVA MAP V5",
+  "short_name": "NOVA MAP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1628",
+  "theme_color": "#10233f",
+  "description": "Bản đồ và công cụ phân tích địa lý."
+}
