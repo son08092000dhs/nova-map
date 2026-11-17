@@ -1,0 +1,36 @@
+# NOVA MAP V5.0
+
+Ứng dụng bản đồ địa lý trên trình duyệt.
+
+## Chức năng
+
+- Bản đồ OpenStreetMap
+- Bản đồ địa hình
+- Tìm kiếm địa điểm
+- Định vị GPS
+- Lưu điểm trên bản đồ
+- Đo khoảng cách
+- Đo diện tích
+- Tạo tuyến đường
+- Nhập và xuất GeoJSON
+- NOVA GEO trợ lý địa lý cục bộ
+
+## Công nghệ
+
+- HTML
+- CSS
+- JavaScript
+- Leaflet
+- OpenStreetMap
+- Nominatim
+- OSRM
+
+## Triển khai
+
+Sử dụng GitHub Pages.
+
+## Lưu ý
+
+Các dịch vụ bản đồ cần Internet.
+NOVA GEO hiện là trợ lý theo quy tắc,
+chưa tích hợp mô hình AI trực tuyến.
